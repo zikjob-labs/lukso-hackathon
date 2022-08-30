@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://zikjob.com">
-    <img src="./images/logo.svg" alt="Logo" width="80">
+    <img src="./images/logo.svg" alt="Logo" width="180">
   </a>
 
   <h3 align="center">ZikJob - Lukso Hackathon - LUKSO Build UP! #1</h3>
